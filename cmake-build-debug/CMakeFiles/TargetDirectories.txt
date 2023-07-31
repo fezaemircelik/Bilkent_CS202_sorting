@@ -1,0 +1,3 @@
+C:/Users/fezae/OneDrive/Masaüstü/bilcant/2/2.2/CS202/hw1/cmake-build-debug/CMakeFiles/homeworks.dir
+C:/Users/fezae/OneDrive/Masaüstü/bilcant/2/2.2/CS202/hw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fezae/OneDrive/Masaüstü/bilcant/2/2.2/CS202/hw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
